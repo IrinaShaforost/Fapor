@@ -388,3 +388,6 @@ footer .socials a:hover{
     display: block;
     clear: both;
 }
+.container{
+    background-color: aqua;
+}
